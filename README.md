@@ -1,6 +1,2 @@
 # flutter_
-ZenFocus is a revolutionary digital wellness application designed to help users break free from smartphone addiction and build healthier technology habits. In today's hyper-connected world, average smartphone users spend 4-5 hours daily on their devices - ZenFocus is here to change that.
-.
-.
-.
-.
+ZenFocus is a revolutionary digital wellness application designed to help users break free from smartphone addiction and build healthier technology habits. In today's hyper-connected world, average smartphone users spend 4-5 hours daily on their devices - ZenFocus is here to change that
